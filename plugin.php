@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP REST API
+ * Plugin Name: WP REST API - RCS
  * Description: JSON-based REST API for WordPress, originally developed as part of GSoC 2013.
  * Author: WP REST API Team
  * Author URI: http://v2.wp-api.org
